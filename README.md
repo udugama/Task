@@ -55,6 +55,8 @@ Failed responses should look like:
 
 To start the server run `npm start`.
 
+Once you have finished push the completed code to a new, seperate repo.
+
 ## Optional
 
 - Tests
