@@ -6,7 +6,7 @@ This task sets out to understand and test your Javascript and Node ability, your
 
 ## Description of task
 
-Using the Postman requests provided, your task is to write a `POST` route in the root `index.js` with a path of `/transaction`. The function executed on that route should be written in `/transaction/handler.js` and imported into `index.js`. Please keep in mind separation of concerns and writing functions that are isolated to as few actions as possible.
+Start by pulling down this repo. Using the Postman requests provided, your task is to write a `POST` route in the root `index.js` with a path of `/transaction`. The function executed on that route should be written in `/transaction/handler.js` and imported into `index.js`. Please keep in mind separation of concerns and writing functions that are isolated to as few actions as possible.
 
 The function should:
 
