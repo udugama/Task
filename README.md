@@ -6,9 +6,11 @@ This task sets out to understand and test your Javascript and Node ability, your
 
 ## Description of task
 
-Using the Postman requests provided, your task is to write a function to be used in the root `index.js` with the `POST` route to `/transaction`. The function should be written in `/transaction/handler.js` and imported into `index.js`. Please keep in mind separation of concerns and writing functions that are isolated to as few actions as possible:
+Using the Postman requests provided, your task is to write a `POST` route in the root `index.js` with a path of `/transaction`. The function executed on that route should be written in `/transaction/handler.js` and imported into `index.js`. Please keep in mind separation of concerns and writing functions that are isolated to as few actions as possible.
 
-- Receives the request containing the transaction payload
+The function should:
+
+- Receive the request containing the transaction payload
   - Check the transaction doesn't exist and return a message if it does
 - Fetch the user belonging to the transaction
   - Check the user exists
