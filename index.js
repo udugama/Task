@@ -6,7 +6,9 @@ const router = express.Router();
 app.use(express.urlencoded());
 app.use(express.json());
 
-router.post("/transaction", /* Replace with your function */ () => {});
+/*
+Implement the route here
+*/
 
 app.use("/", router);
 
