@@ -36,7 +36,7 @@ A successful response should look like:
         "createdAt": "2020-10-23T10:07:14.403Z",
         "createdBy": "7b84a369-6053-4879-84f0-a057c079a09e",
         "currency": "AUD",
-        "transactionType": "deposit"
+        "transactionType": "withdrawal"
         "transactionStatus": "COMPLETE"
     }
 }
