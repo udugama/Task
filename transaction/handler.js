@@ -1,7 +1,7 @@
 // Import files
 
 const handler = async (req, res) => {
-  // Write your code in here
+  return 3;
 };
 
 export default handler;
