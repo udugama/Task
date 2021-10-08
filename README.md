@@ -1,4 +1,4 @@
-# Binance Australia Technical Task
+# Technical Task
 
 ## Objective
 
